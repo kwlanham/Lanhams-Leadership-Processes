@@ -25,32 +25,15 @@ See the checkbox to see if this procedure is one way among others of ir
 ### Outputs / Measurable Results
 * Leaders at all levels ensure clearly defined roles and their responsibilities.
 
-## Policy
-None
-
-### Responsibilities
-
-#### Supervisory Leaders
-* TBD
-* TBD
-
-#### Leaders of Leaders
-* TBD
-* TBD
-
-#### Senior Leaders
-* TBD
-* TBD
-
 ## Standard Work Traceability Elements
-Most employees just want to know how to do the process. 
+Many people just want to know how to do the process. 
 So we get right to it in the top part (above this section).
-Rather than make every person wade through all the traceability information, we have moved it to the bottom, for the less frequent users like the Quality Manager, and Auditors.
+Rather than make every person wade through all the traceability and auditable information, we have moved these things to the bottom, for the less frequent users like the Quality Manager, and Auditors.
 
 |  |  |  |  |
 |:---------|:---------------:|:---------|:----------:|
-| Business | My Company, LLC | Function | Operations |
-| Process Owner | Operations Department | Identifier | 3ae1c5bf7f |
+| Business | Your Company | Function | Leadership |
+| Process Owner | Leadership Chain | Identifier | aeafe0a0d2 |
 
 <!-- Copy the title to inside the quotes on line 10 of create_id.py and run python create_id.py in terminal. Copy the short ID to the identifier field in the preceding table. -->
 
@@ -71,7 +54,7 @@ All employees.
 ### Minimum Viable Process Requirements
 >Auditable: These requirements may be audited for evidence they were met.
 
-- [ ] As long as the following requirements are met, variation in the means to the end is okay for this process _(our default)_.
+- [x] As long as the following requirements are met, variation in the means to the end is okay for this process _(our default)_.
 - [ ] **Critical process** that requires step-by-step compliance (_this is rare in leadership processes_).
 
 1. Clear [roles](#role-gloss) and [responsibilities](#responsibilities-gloss) exist.
