@@ -1,2 +1,6 @@
-# Lanhams-Leadership-Processes
-Leadership Process Library for use by organizations of all sizes and types
+# Lanham's Leadership Processes
+A free and open source Leadership Process Library for use by organizations of all sizes and types.
+
+Intended as a drop in (just link to it) to your business processes for the most typically ignored set of processes--For leaders of your organization.
+
+
