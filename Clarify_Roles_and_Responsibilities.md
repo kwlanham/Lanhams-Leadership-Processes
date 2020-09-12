@@ -2,9 +2,12 @@ _Internal Use Only_
 
 # Clarify Roles & Responsibilities
 
-## Roles are not Jobs
-
-- Jobs = 1 or more roles
+* Leaders at all levels ensure clearly defined roles and their responsibilities.
+* Be sure roles help achieve the company vision and 1-year operating plan.
+* Roles are accountable for specific results.
+* Roles are not Jobs.
+    - Jobs can be composed of 1 or more roles.
+* Clarity about roles reduces waste due to people having overlap of work or conflict about who should do what.
 
 
 ## Process Map
@@ -13,12 +16,7 @@ Include swim lane Diagram here.
 ## Procedure
 
 ### Inputs
-* Required Personal Protective Equipment
-    - TBD
-* Materials & Equipment
-    - TBD
-* Expected duration: 0.2 hours
-* TBD
+* Roles needed to operate business processes
 
 ### Steps
 1. TBD.
@@ -29,15 +27,19 @@ Include swim lane Diagram here.
 * TBD
 
 ## Policy
-TBD
+NA
 
 ### Responsibilities
 
-#### Role 1
+#### Supervisory Leaders
 * TBD
 * TBD
 
-#### Role 2
+#### Leaders of Leaders
+* TBD
+* TBD
+
+#### Senior Leaders
 * TBD
 * TBD
 
@@ -54,10 +56,10 @@ Rather than make every person wade through all the traceability information, we 
 <!-- Copy the title to inside the quotes on line 10 of create_id.py and run python create_id.py in terminal. Copy the short ID to the identifier field in the preceding table. -->
 
 ### Purpose
-Remind leaders to ensure expectations are clear for roles and responsibilities.
+People need to be clear on roles and responsibilities.
 
 ### Business Value (_why it matters_)
-People need to be clear on roles and responsibilities.
+Clear roles and responsibilities enable accountability for results.
 
 ### Persons Affected
 All employees.
@@ -68,31 +70,32 @@ All employees.
 <li><input type="checkbox" checked disabled> As long as the following requirements are met, variation in the means to the end is okay for this process _(our default)_</li>
 <li><input type="checkbox" disabled> **Critical** process that requires step-by-step compliance</li>
 
-1. TBD
-2. TBD
+1. Clear roles and responsibilities exist.
 
 ### Terms & Definitions
 See the glossary at [url_link_goes_here](https://google.com) so we all mean the same things. 
 The first use of a new term is linked from here to that glossary.
 
+role
+:   TBD
+
+responsibility
+:   TBD
+
 ### References / Guidance / Training
-* TBD
+* NA
 
 ### Revision History
 Please submit an improvement suggestion or change request if you see something.
 
-The official version-controlled process is the digital version at the [process website](https://google.com). 
+The official version-controlled process is the digital version at the [process website (put your link here)](https://google.com). 
 
 >**Caution**: Printed copies, and all other electronic copies and versions are considered uncontrolled copies and are not updated. Use the latest version.
 
 | Revision | Date | Description | Change Request ID / link </br> or Approver Title |
 |:----:|:---------:|:----------------------|:------:|
-| 2 | 20YY-MM-DD | First version | 9876 |
-| 1 | 20YY-MM-DD | First version | Operations Mgr |
+| 1 | 2020-09-12 | First version | Lanham |
 
 _Internal Use Only_
 
-
-
->**NOTICE**: This is My Company, LLC intellectual property and know-how. It must not be reproduced in whole or in part or otherwise disclosed outside the company without prior written consent from a company senior leader.
 
