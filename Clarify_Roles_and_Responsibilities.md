@@ -76,7 +76,7 @@ All employees.
 >Auditable: These requirements may be audited for evidence they were met.
 
 - [ ] As long as the following requirements are met, variation in the means to the end is okay for this process _(our default)_.
-- [ ] Critical process that requires step-by-step compliance.
+- [ ] **Critical process** that requires step-by-step compliance (rare in leadership processes).
 
 1. Clear [roles](#role-gloss) and [responsibilities](#responsibilities-gloss) exist.
 2. Communicated roles and responsibilities so employees are made aware of what is expected of them.
