@@ -6,7 +6,7 @@ _Internal Use Only_
 Include swim lane Diagram here.
 
 ## Procedure
-See the checkbox to see if this procedure is one way among others of ir 
+See the [checkbox](#mvp-reqmts) to see if this procedure is only one way among others or required exactly.
 
 ### Inputs
 * Roles needed to operate business processes
@@ -32,8 +32,8 @@ Rather than make every person wade through all the traceability and auditable in
 
 |  |  |  |  |
 |:---------|:---------------:|:---------|:----------:|
-| Business | Your Company | Function | Leadership |
-| Process Owner | Leadership Chain | Identifier | aeafe0a0d2 |
+| Business | Your Company | Function | **Leadership** |
+| Process Owner | **Leadership Chain** | Identifier | **aeafe0a0d2** |
 
 <!-- Copy the title to inside the quotes on line 10 of create_id.py and run python create_id.py in terminal. Copy the short ID to the identifier field in the preceding table. -->
 
@@ -62,8 +62,7 @@ All employees.
 
 ### Terms & Definitions
 A common language helps us all mean the same thing.
-See the glossary at [url_link_goes_here](https://google.com). 
-The first use of a new term is linked from here to that glossary.
+The first use of a new term is linked from there to here.
 
 <a name="job"></a>
 **job**
@@ -109,7 +108,7 @@ Defined results help develop performance indicators for measurement and feedback
 ### Revision History
 Please submit an improvement suggestion or change request if you see something.
 
-The official version-controlled process is the digital version at the [process website (put your link here)](https://google.com). 
+The official version-controlled process is the digital version at the [process website](https://github.com/kwlanham/Lanhams-Leadership-Processes). 
 
 >**Caution**: Printed copies, and all other electronic copies and versions are considered uncontrolled copies and are not updated. Use the latest version.
 
