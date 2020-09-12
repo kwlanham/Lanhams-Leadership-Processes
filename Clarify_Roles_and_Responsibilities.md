@@ -3,20 +3,13 @@ _Internal Use Only_
 # Clarify Roles & Responsibilities
 
 * Leaders at all levels ensure clearly defined roles and their responsibilities.
-* Be sure roles help achieve the company vision and 1-year operating plan.
-* Roles are accountable for specific results.
+* 
 * Roles are not Jobs.
     - Jobs can be composed of 1 or more roles.
 * Clarity about roles reduces waste due to people having overlap of work or conflict about who should do what.
-* Clarify the level of authority they require in order to make decisions
-* It is possible for multiple people to have the same role, depending on what they do.
-* Enumerate the roles and tasks that are performed in business operations.
-* Ensure roles needed by business processes are filled with the right people and no gaps.
-* People may have many roles when the business is smaller, which may be spread to others as the business grows.
-* Communicate the roles and responsibilities to the employees.
-* Org charts typically show job titles, but can be enhanced by also showing roles
-* Consider company goals when creating or updating roles.
-* Determine what needs to get done. Ideally, trace roles to the value stream.
+* 
+* 
+
 
 ## Process Map
 Include swim lane Diagram here.
@@ -27,15 +20,21 @@ Include swim lane Diagram here.
 * Roles needed to operate business processes
 
 ### Steps
-1. TBD.
-1. TBD.
-1. TBD.
+1. Determine what needs to get done. 
+1. Be sure roles help achieve the company vision and 1-year operating plan.
+1. Enumerate the roles and tasks that are performed in business operations.
+1. Ensure roles needed by business processes are filled with the right people and no gaps.
+1. Ideally, trace roles to the value stream.
+1. Consider the roles needed to accomplish company goals when creating or updating roles.
+1. Communicate the roles and [responsibilities](#responsibilities) to the employees.
+1. Consider enhancing org charts, that typically show job titles, by also showing roles. 
+1. Clarify the level of authority they require in order to make decisions.
 
 ### Outputs / Measurable Results
-* TBD
+* Clarity about roles and responsibilities
 
 ## Policy
-NA
+None
 
 ### Responsibilities
 
@@ -101,14 +100,17 @@ Job descriptions have specific requirements for regulatory compliance.
 :   The label your employer has given you.
 
 **role**
-:   The **function** assumed or part played by a person in a business process or situation. 
+:   The **function** assumed or part played by a person in a business process or situation.
 A **set** of related responsibilities.
+Roles are accountable for specific results (see responsibilities).
 Think of a role as **a component of a job**.
 Role names are descriptive of their set of responsibilities.
 For example, a role of a receptionist is 'gatekeeper'.
+It is possible for multiple people to have the same role, depending on what they do.
 
 >NOTE: Business processes that use roles instead of job titles have less change volatility during reorganizations.
 
+<a name="responsibilities"></a>
 **responsibilities**
 :   The more detailed **specifics of a role**. 
 The set of **specific results, behaviors or tasks** people are accountable to demonstrate in order to fill a particular role.
@@ -118,7 +120,7 @@ The priority of the tasks depends on leadership's priorities.
 Defined results help develop performance indicators for measurement and feedback.
 
 ### References / Guidance / Training
-* NA
+* None
 
 ### Revision History
 Please submit an improvement suggestion or change request if you see something.
