@@ -3,10 +3,10 @@ _Internal Use Only_
 # Clarify Roles & Responsibilities
 
 ## Process Map
-TBD - Include swim lane Diagram here.
+For later inclusion: Swim lane diagram.
 
 ## Procedure
-See the [checkbox](#mvp-reqmts) to see if this procedure is only one way among others or required exactly.
+>CAUTION: Auditors must check the [option checkbox](#mvp-reqmts) to see if this procedure is only one way among others or is required exactly.
 
 ### Inputs
 * Roles needed to operate business processes
@@ -44,7 +44,7 @@ People need to be clear on [roles](#role-gloss) and [responsibilities](#responsi
 * Hire the right people for the roles of the job.
 * Stronger team work, more successful collaboration with less friction.
 * Clarity about roles reduces waste due to people having overlap of work or conflict about who should do what. 
-* Helps filling a [job](#job-title) when a person leaves the organization.
+* Helps filling a [job](#job) when a person leaves the organization.
 * Business processes that use roles instead of job titles have less change volatility during reorganizations.
 
 ### Persons Affected
