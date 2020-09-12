@@ -3,7 +3,7 @@ _Internal Use Only_
 # Clarify Roles & Responsibilities
 
 ## Process Map
-Include swim lane Diagram here.
+TBD - Include swim lane Diagram here.
 
 ## Procedure
 See the [checkbox](#mvp-reqmts) to see if this procedure is only one way among others or required exactly.
@@ -32,7 +32,7 @@ Rather than make every person wade through all the traceability and auditable in
 
 | Function | Process Owner | Identifier |
 |:--------------:|:--------------------:|:---------------|
-| **Leadership** | **Leadership Chain** | **aeafe0a0d2** |
+| Leadership | Leadership Chain | aeafe0a0d2 |
 
 <!-- Copy the title to inside the quotes on line 10 of create_id.py and run python create_id.py in terminal. Copy the short ID to the identifier field in the preceding table. -->
 
@@ -45,6 +45,7 @@ People need to be clear on [roles](#role-gloss) and [responsibilities](#responsi
 * Stronger team work, more successful collaboration with less friction.
 * Clarity about roles reduces waste due to people having overlap of work or conflict about who should do what. 
 * Helps filling a [job](#job-title) when a person leaves the organization.
+* Business processes that use roles instead of job titles have less change volatility during reorganizations.
 
 ### Persons Affected
 All employees.
@@ -89,8 +90,6 @@ Think of a role as **a component of a job**.
 Role names are descriptive of their set of responsibilities.
 For example, a role of a receptionist is 'gatekeeper'.
 It is possible for multiple people to have the same role, depending on what they do.
-
->NOTE: Business processes that use roles instead of job titles have less change volatility during reorganizations.
 
 <a name="responsibilities-gloss"></a>
 **responsibilities**
