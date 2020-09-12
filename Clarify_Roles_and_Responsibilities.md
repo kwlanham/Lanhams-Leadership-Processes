@@ -30,6 +30,7 @@ Many people just want to know how to do the process.
 So we get right to it in the top part (above this section).
 Rather than make every person wade through all the traceability and auditable information, we have moved these things to the bottom, for the less frequent users like the Quality Manager, and Auditors.
 
+||||||
 |:---------|:---------------:|:---------|:----------:|:---------|:----------:|
 | Function | **Leadership** | Process Owner | **Leadership Chain** | Identifier | **aeafe0a0d2** |
 
