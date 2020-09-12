@@ -89,18 +89,18 @@ A common language helps us all mean the same thing.
 See the glossary at [url_link_goes_here](https://google.com). 
 The first use of a new term is linked from here to that glossary.
 
-job
+**job**
 :   A hired position composed of roles. A job title refers to that job position. For example, receptionist.
 
-job description
+**job description**
 :   Sums up the roles (functions) and responsibilities (results, tasks) of the person who will be holding the position.
 Often describe the knowledge, skills and/or abilities (competencies) required.
 Job descriptions have specific requirements for regulatory compliance.
 
-job title
+**job title**
 :   The label your employer has given you.
 
-role
+**role**
 :   The **function** assumed or part played by a person in a business process or situation. 
 A **set** of related responsibilities.
 Think of a role as **a component of a job**.
@@ -109,7 +109,7 @@ For example, a role of a receptionist is 'gatekeeper'.
 
 >NOTE: Business processes that use roles instead of job titles have less change volatility during reorganizations.
 
-responsibilities
+**responsibilities**
 :   The more detailed **specifics of a role**. 
 The set of **specific results, behaviors or tasks** people are accountable to demonstrate in order to fill a particular role.
 Defines the work that needs to be performed in a role an employee is accountable for.
