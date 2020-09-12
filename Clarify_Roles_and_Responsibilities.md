@@ -2,17 +2,11 @@ _Internal Use Only_
 
 # Clarify Roles & Responsibilities
 
-* Leaders at all levels ensure clearly defined roles and their responsibilities.
-* 
-* Roles are not Jobs.
-    - Jobs can be composed of 1 or more roles.
-* Clarity about roles reduces waste due to people having overlap of work or conflict about who should do what. 
-
-
 ## Process Map
 Include swim lane Diagram here.
 
 ## Procedure
+See the checkbox to see if this procedure is one way among others of ir 
 
 ### Inputs
 * Roles needed to operate business processes
@@ -29,7 +23,7 @@ Include swim lane Diagram here.
 1. Clarify the **level of authority** they require in order to make decisions.
 
 ### Outputs / Measurable Results
-* Clarity about roles and responsibilities
+* Leaders at all levels ensure clearly defined roles and their responsibilities.
 
 ## Policy
 None
@@ -67,11 +61,13 @@ People need to be clear on [roles](#role-gloss) and [responsibilities](#responsi
 * Clear [roles](#role-gloss) and [responsibilities](#responsibilities-gloss) enable accountability for results.
 * Hire the right people for the roles of the job.
 * Stronger team work, more successful collaboration with less friction.
+* Clarity about roles reduces waste due to people having overlap of work or conflict about who should do what. 
 * Helps filling a [job](#job-title) when a person leaves the organization.
 
 ### Persons Affected
 All employees.
 
+<a name="mvp-reqmts"></a>
 ### Minimum Viable Process Requirements
 >Auditable: These requirements may be audited for evidence they were met.
 
@@ -88,7 +84,10 @@ The first use of a new term is linked from here to that glossary.
 
 <a name="job"></a>
 **job**
-:   A hired position **composed of roles**. A job title refers to that job position. For example, receptionist.
+:   A hired position **composed of roles**. 
+Jobs can be composed of 1 or more roles.
+A [job title](#job-title) refers to that job position. 
+For example, manager.
 
 **job description**
 :   Sums up the roles (functions) and responsibilities (results, tasks) of the person who will be holding the position.
@@ -101,7 +100,8 @@ Job descriptions have specific requirements for regulatory compliance.
 
 <a name="role-gloss"></a>
 **role**
-:   The **function** assumed or part played by a person in a business process or situation.
+:   Roles are not jobs.
+The **function** assumed or part played by a person in a business process or situation.
 A **set** of related responsibilities.
 Roles are accountable for specific results (see responsibilities).
 Think of a role as **a component of a job**.
@@ -132,7 +132,7 @@ The official version-controlled process is the digital version at the [process w
 
 | Revision | Date | Description | Change Request ID / link </br> or Approver Title |
 |:----:|:---------:|:----------------------|:------:|
-| 1 | 2020-09-12 | First version | Lanham |
+| 1 | 2020-09-12 | First version | Process Owner |
 
 _Internal Use Only_
 
