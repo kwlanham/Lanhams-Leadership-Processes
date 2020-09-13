@@ -3,6 +3,6 @@ A free and open source Leadership Process Library for use by organizations of al
 
 Intended as a drop in (just link to it) to your business processes for the most typically ignored set of processes--For leaders of your organization.
 
-The key leadership processes will be added over time.
+The plan is to add to the key leadership processes over time.
 
 
